@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.
+I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.<br><br>
 My repos include:
-
 [Electricity](https://github.com/pkrouse/Electricity)<br>
 Three electrical effects - Lightning, Jacob's Ladder, and single arc.  These are all scripted with some vector math and line renderers.<br>
-This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br>
+This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br><br>
 [Candy Crush Portal](https://github.com/pkrouse/CandyCrushPortal)<br>
 I wrote a Candy Crush game strictly in C# for an assessment once, and decided to do it in VR. You have a brick wall, teleport tool, and a ray gun.<br>
-Shoot out all the bricks to pass through.<br>
+Shoot out all the bricks to pass through.<br><br>
 [Zombie on a Bicycle](https://github.com/pkrouse/ZombieOnABicycle)<br>
-Fun with Mixamo animations and IK with Unity's Animation Rigging package.<br>
+Fun with Mixamo animations and IK with Unity's Animation Rigging package.<br><br>
 [Geodesic Dome Experiments](https://github.com/pkrouse/DomeExperiments)<br>
 Some geodesic domes I built in Blender and imported into VR.<br>
 
