@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.<br><br>
 My repos include:<br><br>
 [Electricity](https://github.com/pkrouse/Electricity)<br>
+<img src="images/Lightning1.png" width="100" height="100" border="10"/> <img src="images/Lightning2.png" width="100" height="100" border="10"/>
+
 Three electrical effects - Lightning, Jacob's Ladder, and a single arc.  These are all scripted with some vector math and line renderers.<br>
 This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br>
 A complete explanation of this project is on Medium in three parts:<br>
