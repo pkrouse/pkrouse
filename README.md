@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.
 My repos include:
 
-[Vue](https://github.com/vuejs/vue)<br>
+[Electricity](https://github.com/pkrouse/Electricity)<br>
+Three electrical effects - Lightning, Jacob's Ladder, and single arc.  These are all scripted with some vector math and line renderers.
 [Vue](https://github.com/vuejs/vue)
 
 
