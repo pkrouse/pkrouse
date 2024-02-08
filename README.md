@@ -30,7 +30,7 @@ A complete explanation of this project is on Medium in three parts:<br>
 I wrote a Candy Crush game strictly in C# for an assessment once, and decided to do it in VR. You have a brick wall, teleport tool, and a ray gun.<br>
 Shoot out all the bricks to pass through.<br><br>
 [Zombie on a Bicycle](https://github.com/pkrouse/ZombieOnABicycle)<br>
-<img src="images/ZOAB.png" width="100" height="100" border="10"/>
+<img src="images/ZOAB.gif" width="100" height="100" border="10"/><br>
 Fun with Mixamo animations and IK with Unity's Animation Rigging package.<br>
 Explanation on Medium at [Intro to Animation Rigging in Unity](https://medium.com/@pierce.krouse/intro-to-animation-rigging-in-unity-71499d70e595)<br><br>
 [Wall Switch in VR](https://github.com/pkrouse/WallSwitchInVR)<br>
