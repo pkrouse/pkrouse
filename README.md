@@ -23,5 +23,8 @@ This one can be run in VR or directly in Unity, but you will want the full VR ex
 [Candy Crush Portal](https://github.com/pkrouse/CandyCrushPortal)<br>
 I wrote a Candy Crush game strictly in C# for an assessment once, and decided to do it in VR. You have a brick wall, teleport tool, and a ray gun.<br>
 Shoot out all the bricks to pass through.<br>
-
+[Zombie on a Bicycle](https://github.com/pkrouse/ZombieOnABicycle)<br>
+Fun with Mixamo animations and IK with Unity's Animation Rigging package.<br>
+[Geodesic Dome Experiments](https://github.com/pkrouse/DomeExperiments)<br>
+Some geodesic domes I built in Blender and imported into VR.<br>
 
