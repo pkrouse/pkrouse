@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.<br><br>
-My repos include:<br><br>
+I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.  I am also getting up to speed on Unreal Engine.<br><br>
+My public repos include:<br><br>
 [Electricity](https://github.com/pkrouse/Electricity)<br>
 <img src="images/Lightning1.png" width="100" height="100" border="10"/> <img src="images/Lightning2.png" width="100" height="100" border="10"/> <img src="images/JacobsLadder.gif" width="100" height="100" border="10"/>
 
