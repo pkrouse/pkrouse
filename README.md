@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.<br><br>
-My repos include:
+My repos include:<br>
 [Electricity](https://github.com/pkrouse/Electricity)<br>
 Three electrical effects - Lightning, Jacob's Ladder, and single arc.  These are all scripted with some vector math and line renderers.<br>
 This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br><br>
