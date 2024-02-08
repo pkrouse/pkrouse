@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.
+My repos include:
+[Vue](https://github.com/vuejs/vue)
+
 
