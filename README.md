@@ -26,7 +26,7 @@ A complete explanation of this project is on Medium in three parts:<br>
 [Part 2 of 3](https://medium.com/@pierce.krouse/electricity-in-unity-part-2-of-3-2ba17f68097d), 
 [Part 3 of 3](https://medium.com/@pierce.krouse/electricity-in-unity-part-3-of-3-522f923a516a)<br><br>
 [Candy Crush Portal](https://github.com/pkrouse/CandyCrushPortal)<br>
-<img src="images/CCBlast1.jpeg" width="100" height="100" border="10"/> <img src="images/CCBlast2.jpeg" width="100" height="100" border="10"/>
+<img src="images/CCBlast2.jpeg" width="100" height="100" border="10"/> <img src="images/CCBlast1.jpeg" width="100" height="100" border="10"/><br>
 I wrote a Candy Crush game strictly in C# for an assessment once, and decided to do it in VR. You have a brick wall, teleport tool, and a ray gun.<br>
 Shoot out all the bricks to pass through.<br><br>
 [Zombie on a Bicycle](https://github.com/pkrouse/ZombieOnABicycle)<br>
