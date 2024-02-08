@@ -37,5 +37,5 @@ Explanation on Medium at [Intro to Animation Rigging in Unity](https://medium.co
 I was experimenting with how to make a wall switch in VR.  Not my best work, but interesting IMO.<br>
 Read the article first at [Implementing a wall switch in VR](https://medium.com/@pierce.krouse/implementing-a-wall-switch-in-vr-869b64885e49)<br><br>
 [Geodesic Dome Experiments](https://github.com/pkrouse/DomeExperiments)<br>
-Some geodesic domes I built in Blender and imported into VR.<br>
+Some geodesic domes I built in Blender and imported into VR. I was experimenting with glass as well, and took the results of this into another (private) project.<br>
 
