@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a VR software engineer, specializing in the Unity platform, and currently learning the Fusion framework.<br><br>
-My repos include:<br>
+My repos include:<br><br>
 [Electricity](https://github.com/pkrouse/Electricity)<br>
 Three electrical effects - Lightning, Jacob's Ladder, and single arc.  These are all scripted with some vector math and line renderers.<br>
-This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br><br>
+This one can be run in VR or directly in Unity, but you will want the full VR experience for this.<br>
+A complete explanation of this project is on Medium in three parts:<br>
+[Electricity in Unity — Part 1 of 3](https://medium.com/@pierce.krouse/electricity-in-unity-part-1-of-3-3424380f7b51)<br>
+[Electricity in Unity — Part 2 of 3](https://medium.com/@pierce.krouse/electricity-in-unity-part-2-of-3-2ba17f68097d)<br>
+[Electricity in Unity — Part 3 of 3](https://medium.com/@pierce.krouse/electricity-in-unity-part-3-of-3-522f923a516a)<br><br>
 [Candy Crush Portal](https://github.com/pkrouse/CandyCrushPortal)<br>
 I wrote a Candy Crush game strictly in C# for an assessment once, and decided to do it in VR. You have a brick wall, teleport tool, and a ray gun.<br>
 Shoot out all the bricks to pass through.<br><br>
